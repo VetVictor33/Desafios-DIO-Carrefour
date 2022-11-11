@@ -6,3 +6,5 @@ Repositório para os desafios da DIO no processo do Carrefour:
 [x] Desafio C#;
 
 [x] Desafio JS;
+
+[x] Desafio Python;

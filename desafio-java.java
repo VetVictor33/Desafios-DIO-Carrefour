@@ -4,8 +4,8 @@
 // - System.out.println:.imprime um texto de Saída (Output) e pulando uma linha.  
 
 /*
-Código copiado do site da DIO :
-
+Código copiado do site da DIO : 
+https://web.dio.me/track/trainee-grupo-carrefour-brasil-lideranca-negra
 exceto as partes indicadas por comentário
 */
 
